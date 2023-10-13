@@ -6,7 +6,7 @@ The file menu has have features like new window, save file and open file.
 The edit menu has have five functions - Cut, Copy, Paste, select All and Close button.
 The text area inside the window has be used for writing and editing the text.
 Users can write and edit text inside the text area.
-
+To use this app user can download the src file and run the TextEditor.java file  
 # Tech used : Java Swing
 
 # User Interface Snapshots
